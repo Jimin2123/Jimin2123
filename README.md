@@ -26,7 +26,7 @@ Hello 👋 I am a College Student & Junior Developer🧑‍💻 From South Korea
 
 <hr/>
 
-<div style="text-align=center">
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jimin2123&theme=&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
