@@ -1,6 +1,6 @@
 ### Jimin Jung @Jimin2123
 
-<!-- [![Solved.ac kjimin2123](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjimin2123)](https://solved.ac/kjimin2123) -->
+[![Solved.ac kjimin315490](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjimin315490)](https://solved.ac/kjimin315490)
 <!-- 플레티넘 이상일때 여는걸로 -->
 
 Hello 👋 I am a College Student & Junior Developer🧑‍💻 From South Korea
