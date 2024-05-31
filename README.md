@@ -7,9 +7,6 @@ Hello 👋 I am a College Student & Junior Developer🧑‍💻 From South Korea
     <td>
       <img src="https://metrics.lecoq.io/jimin2123?template=classic&base.repositories=0&languages=1&languages.ignored=c%2Cc%2B%2B%2Cjava&config.timezone=Asia%2FSeoul&config.animated=true">
     </td>
-    <td>
-      <a href="https://solved.ac/profile/kjimin315490"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjimin315490"></a>
-    </td>
   </tr>
 </table>
 
