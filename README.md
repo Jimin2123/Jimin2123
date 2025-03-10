@@ -2,7 +2,6 @@
 
 Hello 👋 I am a College Student & Junior Developer🧑‍💻 From South Korea
 
-<hr/>
 
 ### My Stats
 <table>
@@ -15,5 +14,7 @@ Hello 👋 I am a College Student & Junior Developer🧑‍💻 From South Korea
     </td>
   </tr>
 </table>
+
+<hr/>
 
 <div align="center">
